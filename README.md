@@ -27,3 +27,6 @@ Lastly, when looking at latitude vs wind speed, in both the Northern Hemisphere 
 ## VacationPy
 
 Using the data we gathered in the previous notebook, WeatherPy, we are able to plan future vacations. Narrowing down ideal conditiions such as setting our maximum temperature to 90 degrees, cloudiness less than 50%, or less wind speed and humidity, we created another DataFrame to find the closest hotels in our desired cities. What started as a world map of over 500 cities, we were able to narrow down to cities/hotels that match our ideal conditions for a vacation as in the maps. 
+
+![all_cities](https://github.com/otybaasandorj/python-api-challenge/blob/main/WeatherPy/output_data/images/map_plot_1.png)
+![hotels](https://github.com/otybaasandorj/python-api-challenge/blob/main/WeatherPy/output_data/images/map_plot_2.png)
